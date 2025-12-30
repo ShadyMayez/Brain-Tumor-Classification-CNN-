@@ -1,0 +1,11 @@
+brain-tumor-classification/
+├── data/                   
+├── notebooks/              
+│   └── brain-tumor-classification-cnn.ipynb 
+├── reports/                
+│   └── brain-tumor-classification-report.pdf
+├── models/                
+├── .gitignore              
+├── LICENSE                 
+├── README.md               
+└── requirements.txt
